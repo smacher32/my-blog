@@ -4,7 +4,8 @@
     margin-right: auto;
     display: flex;
     flex-direction: column;
-    gap: 1;
+    gap: 10px;
+     justify-content: center;
 }
 @media  screen and (min-width:576px) {
     .blog-card-wrapper{
