@@ -1,0 +1,34 @@
+.blog-card-wrapper {
+    max-width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blog-card {
+   border: 1px solid #ccc;
+   border-radius: 4px;
+}
+
+.blog-card-image > img {
+    object-fit: cover;
+    width: 100%;
+    height: 160px;
+}
+
+.blog-card-body {
+    padding: 4px;
+
+}
+
+.blog-card-title {
+    text-align: left;
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 5px ;
+}
+
+.blog-card-info{
+    margin-bottom: 5px ;
+    font-size: 1.25rem;
+
+}
